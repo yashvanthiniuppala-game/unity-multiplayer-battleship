@@ -1,0 +1,3 @@
+# Unity built-in / third-party files: exclude from GitHub language stats
+Assets/TextMesh?Pro/** linguist-vendored
+*.shadergraph linguist-generated
